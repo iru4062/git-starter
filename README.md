@@ -49,6 +49,5 @@ Git 과 Github 을 능숙하게 다루기 위해선 자주 사용해보는 것�
 ## 9. Thanks to..
 - [@jhoon2816](https://github.com/jhoon2816)
 - [@E-nuri](https://github.com/E-nuri)
-- [@Hongbre](https://github.com/hongbre)
+- [@Hongbre](https://github.com/hongbre) 
 - [@IRSM](https://github.com/IRSM)
-- [@keyakoto](https://github.com/keyakoto)
